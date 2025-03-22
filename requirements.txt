@@ -1,0 +1,20 @@
+# Core packages
+requests==2.31.0
+pandas==2.2.1
+numpy==1.26.4
+
+# LangChain (for semantic search, chunking, LLM integration)
+langchain==0.1.17
+
+# Vector store (FAISS)
+faiss-cpu==1.8.0
+
+# OpenAI (embeddings, GPT model API)
+openai==1.14.3
+tiktoken==0.6.0
+
+# Streamlit (Web Interface)
+streamlit==1.33.0
+
+# Utility
+python-dotenv==1.0.1
