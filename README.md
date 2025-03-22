@@ -1,1 +1,3 @@
 # GitAnalyzer
+
+This project aims to build an AI-powered seman- tic search and code analysis system for GitHub repositories using LangChain and large language models (LLMs). Key challenges include efficient data retrieval, preprocessing diverse code files, implementing semantic search algorithms, and leveraging LLMs for intelligent code analysis. Our system will not only locate relevant code but also generate insights and answer queries, bridging traditional information retrieval with advanced natural language processing (NLP) techniques.
