@@ -35,7 +35,6 @@ To set up GitAnalyzer, follow these steps:
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-    ```
 
 3. **Set Up Environment Variables**  
     Create a `.env` file in the root directory and add the following environment variables:
