@@ -37,7 +37,7 @@ To set up GitAnalyzer, follow these steps:
     ```
 
 3. **Set Up Environment Variables**  
-    Create a `.env` file in the root directory and add the following environment variables:
+    Add the following environment variables:
     ```env
     OPENAI_API_KEY=your_openai_api_key
     GITHUB_TOKEN=your_github_token
